@@ -7,10 +7,10 @@ Hello, I’m Abdullah, .my core skill is based on javaScript<br>and I love to do
 
 ## Skills:
 
--Programming Languages : HTML5, CSS, Javascript, React
--Frameworks : Bootstrap5, Taillwind CSS
--Libraries : DaisyUi, MaterialUi
--Tools : 
+- Programming Languages : HTML5, CSS, Javascript, React
+- Frameworks : Bootstrap5, Taillwind CSS
+- Libraries : DaisyUi, MaterialUi
+- Tools : 
 
 ## Contact Information
 
