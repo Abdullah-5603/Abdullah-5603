@@ -1,4 +1,4 @@
-# Hi, I'm Abu Abdullah 👋
+# Hi, I'm Abu Abdullah
 
 ## Full Stack Web Developer | MERN Stack Developer | React Native Developer | WordPress Plugin Developer
 
@@ -8,7 +8,7 @@ I work mainly with the MERN stack, React Native, WordPress plugin development, R
 
 My work includes web applications, mobile apps, e-commerce systems, SaaS-style platforms, PDF tools, WordPress integrations, and backend systems with caching and deployment workflows.
 
-Currently, I am improving my skills in React Native, Linux, cloud deployment, and cybersecurity fundamentals.
+Currently, I am improving my skills in React Native, NestJS, Linux, Bash scripting, cloud deployment, and cybersecurity fundamentals.
 
 ---
 
@@ -18,16 +18,17 @@ Currently, I am improving my skills in React Native, Linux, cloud deployment, an
 - 💼 Full Stack Web Developer
 - 📱 Building mobile apps with React Native and Expo
 - 🧩 Experienced with MERN stack, WordPress, REST APIs, Redis, Docker, and Linux
+- ⚙️ Learning and building backend systems with NestJS
 - 🖥️ Portfolio: [Portfolio](http://abuabdullah5603.vercel.app)
 - ✉️ Email: [abu_abdullah019@hotmail.com](mailto:abu_abdullah019@hotmail.com)
-- 🧠 Currently learning React Native, Linux, cloud deployment, and cybersecurity
+- 🧠 Currently learning React Native, NestJS, Linux, Bash scripting, cloud deployment, and cybersecurity
 - 🤝 Open to collaboration on web, mobile, and software development projects
 
 ---
 
 ## Skills
 
-### Languages
+### Languages & Scripting
 
 <table>
   <tr>
@@ -40,8 +41,8 @@ Currently, I am improving my skills in React Native, Linux, cloud deployment, an
       <br>PHP
     </td>
     <td align="center" width="90">
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="42" height="42" alt="Python" />
-      <br>Python
+      <img src="https://skillicons.dev/icons?i=bash" width="42" height="42" alt="Bash" />
+      <br>Bash
     </td>
     <td align="center" width="90">
       <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="42" height="42" alt="HTML5" />
@@ -124,6 +125,10 @@ Currently, I am improving my skills in React Native, Linux, cloud deployment, an
       <br>Express
     </td>
     <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=nestjs" width="42" height="42" alt="NestJS" />
+      <br>NestJS
+    </td>
+    <td align="center" width="90">
       <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="42" height="42" alt="MongoDB" />
       <br>MongoDB
     </td>
@@ -135,12 +140,12 @@ Currently, I am improving my skills in React Native, Linux, cloud deployment, an
       <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="42" height="42" alt="PostgreSQL" />
       <br>PostgreSQL
     </td>
+  </tr>
+  <tr>
     <td align="center" width="90">
       <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="42" height="42" alt="Firebase" />
       <br>Firebase
     </td>
-  </tr>
-  <tr>
     <td align="center" width="90">
       <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/wordpress-colored.svg" width="42" height="42" alt="WordPress" />
       <br>WordPress
@@ -158,12 +163,18 @@ Currently, I am improving my skills in React Native, Linux, cloud deployment, an
       <br>Git
     </td>
     <td align="center" width="90">
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="42" height="42" alt="Figma" />
-      <br>Figma
+      <img src="https://skillicons.dev/icons?i=neovim" width="42" height="42" alt="NeoVIM" />
+      <br>NeoVIM
     </td>
+  </tr>
+  <tr>
     <td align="center" width="90">
       <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="42" height="42" alt="VS Code" />
       <br>VS Code
+    </td>
+    <td align="center" width="90">
+      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="42" height="42" alt="Figma" />
+      <br>Figma
     </td>
   </tr>
 </table>
@@ -176,7 +187,7 @@ Currently, I am improving my skills in React Native, Linux, cloud deployment, an
   <a href="https://www.github.com/Abdullah-5603" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://www.linkedin.com/in/abu_abdullah_367e0251e80b" target="_blank" rel="noreferrer">
+  <a href="https://www.linkedin.com/in/md-abu-abdullah-1a32ab407" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://www.x.com/AbuAbdullah743" target="_blank" rel="noreferrer">
