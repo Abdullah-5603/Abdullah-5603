@@ -37,6 +37,10 @@ Currently, I am improving my skills in React Native, NestJS, Linux, Bash scripti
       <br>JavaScript
     </td>
     <td align="center" width="90">
+      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="42" height="42" alt="JavaScript" />
+      <br>TypeScript
+    </td>
+    <td align="center" width="90">
       <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="42" height="42" alt="PHP" />
       <br>PHP
     </td>
